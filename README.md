@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luishalves/projetos_pessoais](https://github.com/brncluis/projetos_pessoais)
+- 👨‍💻 All of my projects are available at [brncluis/projetos_pessoais](https://github.com/brncluis/projetos_pessoais)
 
 - 📫 How to reach me **lhass@cesar.school**
 
