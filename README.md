@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Luis Alves</h1>
-<h3 align="center">I'm currently learning Python | C | JavaScript</h3>
+<h1 align="left">Hello 👋, I'm Luis Alves</h1>
+<h3 align="left">I'm currently learning Python | C | JavaScript</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/brncluis/projetos_pessoais](https://github.com/brncluis/projetos_pessoais)
 
