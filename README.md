@@ -7,7 +7,7 @@
 
 * 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brncluis/projetos_pessoais](https://github.com/brncluis/projetos_pessoais)
 * 🌱 Atualmente estou aprendendo **Python | C | JavaScript**
-* 📫 Contato: **lhass@cesar.school**
+* 📫 Contato: **luishalvesss@gmail.com**
 
 ---
 
